@@ -5,6 +5,5 @@ pandas
 python-multipart
 pydantic
 numpy
-google-generativeai
+google-genai
 python-dotenv
- 
